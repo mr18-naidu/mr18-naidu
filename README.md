@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Isaac Pandraju
 - 👀 I’m interested in Emerging Technologies
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on Futurense Technologies
+- 🌱 I’m Data Engineer
 - 📫 How to reach me on Wtsapp:8184899595
 
 <!---
